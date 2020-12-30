@@ -1,6 +1,4 @@
 import React, {FunctionComponent} from "react";
-import DropdownButton from "react-bootstrap/DropdownButton";
-import Dropdown from "react-bootstrap/Dropdown";
 
 // const rain = require("./assets/rain.mp3");
 

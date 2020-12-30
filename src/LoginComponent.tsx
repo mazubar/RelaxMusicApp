@@ -1,7 +1,4 @@
 import React, {useState} from "react";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
-import {Button} from "react-bootstrap";
 import {dataService} from "./DataService";
 import { useHistory } from "react-router-dom";
 
